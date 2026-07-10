@@ -9,9 +9,9 @@ African creators locked out of platforms like Kickstarter and Patreon.
 
 ## Repositories
 
-- [`fundlr-contracts`](https://github.com/fundlr-stellar/fundlr-contracts) — Soroban smart contracts (Rust)
-- [`fundlr-backend`](https://github.com/fundlr-stellar/fundlr-backend) — API and Horizon integration (NestJS/TypeScript)
-- [`fundlr-frontend`](https://github.com/fundlr-stellar/fundlr-frontend) — Web app (Next.js/TypeScript)
+- [`fundlr-contracts`](https://github.com/fundlr-stellar/fundlr-contracts): Soroban smart contracts (Rust)
+- [`fundlr-backend`](https://github.com/fundlr-stellar/fundlr-backend): API and Horizon integration (NestJS/TypeScript)
+- [`fundlr-frontend`](https://github.com/fundlr-stellar/fundlr-frontend): Web app (Next.js/TypeScript)
 
 ## Contributing
 
